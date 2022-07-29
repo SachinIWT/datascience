@@ -320,9 +320,7 @@ li > a,
   margin: -0.4em;
   position: relative;
   color: white;
-  transition-property: color, background-color, -webkit-text-decoration-color;
-  transition-property: text-decoration-color, color, background-color;
-  transition-property: text-decoration-color, color, background-color, -webkit-text-decoration-color;
+  transition-property: color, background-color;
   transition-duration: 0.3s;
   transition-timing-function: ease-in-out;
   background-color: rgba(0, 216, 255, 0.1);
@@ -333,16 +331,12 @@ li > a:visited,
 }
 li > a:hover,
 .next-action-link:hover {
-  color: white;
-  -webkit-text-decoration-color: #00d8ff;
-          text-decoration-color: #00d8ff;
+  color: #00d8ff;
   background-color: rgba(0, 216, 255, 0.2);
 }
 li > a:focus,
 .next-action-link:focus {
   color: white;
-  -webkit-text-decoration-color: #00d8ff;
-          text-decoration-color: #00d8ff;
   outline-color: #00d8ff;
 }
 li > a:focus:before,
