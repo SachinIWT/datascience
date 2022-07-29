@@ -321,11 +321,11 @@ li > a,
   position: relative;
   color: white;
    text-decoration: none;
-  transition-property: color, background-color;
+  transition-property: color;
   transition-duration: 0.3s;
   transition-timing-function: ease-in-out;
-  background-color: rgba(0, 216, 255, 0.1);
 }
+
 li > a:visited,
 .next-action-link:visited {
   color: white;
