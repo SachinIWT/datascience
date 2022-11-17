@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Getting started with CODAP",
+    "description": "Learn how to use CODAP using the CODAP plugin onboarding",
+    "location": "./documents/get_started.codap"
+  },
+  
+  {
+    "name": "Map Data",
+    "description": "Explore Wonders of the World, and see what you discover.  ",
+    "location": "./documents/wondersworld.codap"
+  },
+  {
+    "name": "Meet the Pokemons",
+    "description": "Data on All the Pokemon of the Ist Generation.  ",
+    "location": "./documents/pokemon.codap"
+  },
+  {
+    "name": "Fast Food Nutrition",
+    "description": "Explore the nutrition value of McDonald's Fast Food Products",
+    "location": "./documents/mcdonald.codap"
+  }
+]
+

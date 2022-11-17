@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Vier Robben",
+    "description": "Dies sind Spuren auf einer Karte. Erstellen Sie Grafiken, um Faktoren zu identifizieren, die die Spuren der Seeelefanten beeinflussen.",
+    "location": "./documents/Vier_Robben.codap"
+  },
+  {
+    "name": "Säugetiere",
+    "description": "Untersuchen Sie verschiedene Säugetiere und entdecken Sie interessante Details durch Grafiken.",
+    "location": "./documents/Säugetiere.codap"
+  },
+  {
+    "name": "Große Bauwerke",
+    "description": "Die höchsten Gebäude der Welt",
+    "location": "./documents/Große Bauwerke.codap"
+  },
+  {
+    "name": "Olympia",
+    "description": "Leichtathletik Siegerzeiten und –höhen von 1986 bis 2016",
+    "location": "./documents/Olympia.codap"
+  },
+  {
+    "name": "Grundschulen NRW",
+    "description": "Welche Gewohnheiten haben Grundschüler aus Nordrhein-Westfalen?",
+    "location": "./documents/Grundschulen_NRW.codap"
+  },
+  {
+    "name": "Map Data",
+    "description": "Explore United States  Population Data, and see what you discover.  ",
+    "location": "./documents/statesneducation.codap"
+  },
+  {
+    "name": "Duck Pond",
+    "description": "Explore probability through simulating a carnival game with a Sampler",
+    "location": "./documents/duckpond.codap"
+  }
+]
